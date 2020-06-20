@@ -66,11 +66,3 @@ h1 {
     z-index: 10;
     color: #f9f9f9;
 }
-
-.hidden {
-    display: none;
-}
-
-.show {
-    display: block;
-}
