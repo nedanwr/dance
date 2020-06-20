@@ -6,6 +6,10 @@
     padding: 0;
 }
 
+::selection {
+    background-color: transparent;
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5;
@@ -61,8 +65,4 @@ h1 {
 .content {
     z-index: 10;
     color: #f9f9f9;
-}
-
-::selection {
-    background-color: transparent;
 }
